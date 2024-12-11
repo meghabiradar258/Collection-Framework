@@ -29,3 +29,12 @@ public class SortString {
         }
 
 }}
+Output:
+[Megha, Anjali, Jaya, Shiva, Arpita, Aai, Shubham, Anuja, Mahesh, Arti]
+Name Start With A -According to its length
+Aai
+Arti
+Anuja
+Anjali
+Arpita
+
